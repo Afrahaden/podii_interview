@@ -2,7 +2,7 @@
 
 ## Question one
 
-Creating a new Mix project called "blogger" with HTTPoison as a dependency
+Creating a new Mix project called "blogger" with HTTPoison as a dependency (hello.exs)
 
 ## Question two
 
